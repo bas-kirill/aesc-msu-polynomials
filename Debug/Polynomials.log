@@ -1,0 +1,21 @@
+﻿  polynomials.cpp
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(127): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(128): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(144): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(211): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(212): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(321): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(324): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(328): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(389): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(394): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(397): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(421): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(424): warning C4018: <: несоответствие типов со знаком и без знака
+  Polynomials.vcxproj -> C:\Users\Кирилл\source\repos\Polynomials\Debug\Polynomials.exe

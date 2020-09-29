@@ -1,0 +1,22 @@
+﻿  polynomials.cpp
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(141): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(142): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(158): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(234): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(235): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(346): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(349): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(353): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(420): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(425): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(428): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(452): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\source\repos\polynomials\polynomials.cpp(455): warning C4018: <: несоответствие типов со знаком и без знака
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/OPT:ICF"
+  Polynomials.vcxproj -> C:\Users\Кирилл\source\repos\Polynomials\Release\Polynomials.exe
